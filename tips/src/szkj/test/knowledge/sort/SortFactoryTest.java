@@ -1,6 +1,6 @@
-package com.szkj.test.knowledge.sort;
+package szkj.test.knowledge.sort;
 
-import com.szkj.knowledge.sort.SortFactory;
+import szkj.knowledge.sort.SortFactory;
 import org.junit.Test;
 
 /**

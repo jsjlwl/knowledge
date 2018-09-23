@@ -1,7 +1,7 @@
-package com.szkj.knowledge.sort.selection;
+package szkj.knowledge.sort.selection;
 
-import com.szkj.knowledge.sort.ISort;
-import com.szkj.knowledge.sort.SortUtils;
+import szkj.knowledge.sort.ISort;
+import szkj.knowledge.sort.SortUtils;
 
 /**
  * @ClassName SelectionSort

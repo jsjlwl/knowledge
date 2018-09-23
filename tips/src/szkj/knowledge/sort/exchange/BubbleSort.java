@@ -1,7 +1,7 @@
-package com.szkj.knowledge.sort.exchange;
+package szkj.knowledge.sort.exchange;
 
-import com.szkj.knowledge.sort.ISort;
-import com.szkj.knowledge.sort.SortUtils;
+import szkj.knowledge.sort.ISort;
+import szkj.knowledge.sort.SortUtils;
 
 /**
  * @ClassName BubbleSort

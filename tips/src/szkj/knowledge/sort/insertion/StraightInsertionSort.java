@@ -1,7 +1,7 @@
-package com.szkj.knowledge.sort.insertion;
+package szkj.knowledge.sort.insertion;
 
-import com.szkj.knowledge.sort.ISort;
-import com.szkj.knowledge.sort.SortUtils;
+import szkj.knowledge.sort.ISort;
+import szkj.knowledge.sort.SortUtils;
 
 /**
  * @ClassName StraightInsertionSort

@@ -1,4 +1,4 @@
-package com.szkj.knowledge.sort;
+package szkj.knowledge.sort;
 
 /**
  * @InterfaceName ISort

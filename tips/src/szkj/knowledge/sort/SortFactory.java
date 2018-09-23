@@ -1,10 +1,10 @@
-package com.szkj.knowledge.sort;
+package szkj.knowledge.sort;
 
-import com.szkj.knowledge.sort.exchange.BubbleSort;
-import com.szkj.knowledge.sort.exchange.CocktailSort;
-import com.szkj.knowledge.sort.exchange.QuickSort;
-import com.szkj.knowledge.sort.insertion.StraightInsertionSort;
-import com.szkj.knowledge.sort.selection.SelectionSort;
+import szkj.knowledge.sort.exchange.BubbleSort;
+import szkj.knowledge.sort.exchange.CocktailSort;
+import szkj.knowledge.sort.exchange.QuickSort;
+import szkj.knowledge.sort.insertion.StraightInsertionSort;
+import szkj.knowledge.sort.selection.SelectionSort;
 
 /**
  * @ClassName SortFactory
